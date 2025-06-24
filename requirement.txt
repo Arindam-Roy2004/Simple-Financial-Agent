@@ -1,0 +1,10 @@
+streamlit 
+agno
+openai 
+duckduckgo-search 
+yfinance
+python-dotenv
+packaging
+fastapi
+uvicorn
+google-genai
