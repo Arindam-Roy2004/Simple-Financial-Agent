@@ -8,15 +8,6 @@ It allows users to:
 - 🌐 Search the web for the latest news or information
 - 🧠 Combine finance and general queries in one interface
 
----
-
-## 🚀 Demo
-
-<!-- Replace with your actual demo GIF if available -->
-![demo](https://github.com/Arindam-Roy2004/Simple-Financial-Agent/assets/your-demo.gif)
-
----
-
 ## 🧩 Features
 
 - 🌍 **Web Agent**: Searches the internet using DuckDuckGo.
