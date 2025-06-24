@@ -23,8 +23,8 @@ It allows users to:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Arindam-Roy2004/Simple-Financial-Agent.git
-cd Simple-Financial-Agent
+git clone https://github.com/username/project-name.git
+cd project-name
 ```
 
 ### 2. Create a Virtual Environment
